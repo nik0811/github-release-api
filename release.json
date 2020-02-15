@@ -1,0 +1,8 @@
+{
+        "tag_name": "v1.6.0",
+        "target_commitish": "master",
+        "name": "v1.6.0",
+        "body": "nikhil python api call release",
+        "draft": false,
+        "prerelease": false
+}
