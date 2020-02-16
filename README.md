@@ -4,28 +4,20 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* GITHUB release API
+* Version 1.0.1
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* pip install -r `requirements.txt`
+* `release.json` should be updated with new release details, if you want to create new release on GITHUB
 
 ### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+* None
 
 ### Who do I talk to? ###
 
 * Repo owner or admin
 * Other community or team contact
 
-## Test Automation Jenkins
