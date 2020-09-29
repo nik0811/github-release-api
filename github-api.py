@@ -41,4 +41,4 @@ def deleterelease():
         releaseDeleteId = requests.delete('%s/repos/%s/%s/releases/%s' %(url,user,repo,releaseId), headers=header)
         print(releaseDeleteId,releaseDeleteTag)
     except:
-        print("errror wile deleteing release")
+        print("errror while deleteing release")
